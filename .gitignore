@@ -216,6 +216,10 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+# Project-specific
+data/raw/*
+data/processed/*
+.DS_Store
 marimo/_lsp/
 __marimo__/
 
